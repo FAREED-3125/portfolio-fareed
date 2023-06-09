@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-fareed/static/css/main.467850ba.css",
+    "main.js": "/portfolio-fareed/static/js/main.e3635c29.js",
+    "static/media/young-business-woman-checking-satisfaction-checklist-box-copy-space.jpg": "/portfolio-fareed/static/media/young-business-woman-checking-satisfaction-checklist-box-copy-space.6a5237022bbd5eb23da0.jpg",
+    "static/media/man-smiling-with-hands-hips-removebg-preview.png": "/portfolio-fareed/static/media/man-smiling-with-hands-hips-removebg-preview.18193f5f7c4671e5ae50.png",
+    "static/media/pleaseOpen.jpg": "/portfolio-fareed/static/media/pleaseOpen.871aa8d671dac07ebb7a.jpg",
+    "index.html": "/portfolio-fareed/index.html",
+    "main.467850ba.css.map": "/portfolio-fareed/static/css/main.467850ba.css.map",
+    "main.e3635c29.js.map": "/portfolio-fareed/static/js/main.e3635c29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.467850ba.css",
+    "static/js/main.e3635c29.js"
+  ]
+}
