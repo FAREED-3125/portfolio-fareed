@@ -1,0 +1,42 @@
+#section{
+    background-color: var(--orange);
+}
+.footer-container *{
+    text-align: center;
+    margin-top: rem;
+    color: var(--bg-color);
+}
+.link-footer a:hover{
+  color: #625473;
+}
+.footer-Links a:hover{
+   color:#625473;
+}
+.footer-container{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+
+.footer-Links{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    margin-bottom: 4rem;
+}
+.link-footer{
+    display: flex;
+    gap:1.2rem;
+    justify-content: center;
+}
+.footer-container h3{
+    margin-top: 2rem;
+}
+
+@media  screen and (max-width:500px) {
+    .link-footer{
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+}
